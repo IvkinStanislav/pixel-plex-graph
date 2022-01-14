@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "graph-lib",
+    "graph-bin",
+]
